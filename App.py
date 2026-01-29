@@ -85,7 +85,7 @@ st.markdown("""
     color: white;
     text-shadow: 0px 0px 20px rgba(255,255,255,0.4);
 '>
-🎓 AI Study Companion
+🎓 Smriti AI
 </h1>
 
 <p style='

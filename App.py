@@ -80,7 +80,7 @@ st.markdown("""
 <div style='text-align: center; padding: 25px 0;'>
 
 <h1 style='
-    font-size:clamp(18px, 2vw, 28px);
+    font-size:clamp(38px, 2vw, 28px);
     font-weight: 900;
     color: white;
     text-shadow: 0px 0px 20px rgba(255,255,255,0.4);

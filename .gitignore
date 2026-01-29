@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+myenv/
+
+# Environment variables
+.env
+.streamlit/secrets.toml
+
+# Local database
+memory.db
+
+# OS files
+.DS_Store
+Thumbs.db

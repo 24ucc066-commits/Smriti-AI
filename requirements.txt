@@ -1,0 +1,17 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+groq
+python-dotenv
+pdfplumber
+pypdf
+faiss-cpu
+tiktoken
+matplotlib
+sentence-transformers
+torch
+transformers
+networkx
+
+
